@@ -1,28 +1,28 @@
-.navbar-toggler {
+.navbar-toggler[b-fdwozry3b9] {
   background-color: rgba(255, 255, 255, 0.1);
 }
 
-.top-row {
+.top-row[b-fdwozry3b9] {
   height: 3.5rem;
   background-color: rgba(0, 0, 0, 0.4);
 }
 
-.navbar-brand {
+.navbar-brand[b-fdwozry3b9] {
   font-size: 1.1rem;
 }
 
-.oi {
+.oi[b-fdwozry3b9] {
   width: 2rem;
   font-size: 1.1rem;
   vertical-align: text-top;
   top: -2px;
 }
 
-.avatar-container {
+.avatar-container[b-fdwozry3b9] {
   margin: 0 0 8px;
 }
 
-.avatar-img {
+.avatar-img[b-fdwozry3b9] {
   width: 160px;
   height: 160px;
   border-radius: 50%;
@@ -33,11 +33,11 @@
 }
 
 @media (min-width: 641px) {
-  .navbar-toggler {
+  .navbar-toggler[b-fdwozry3b9] {
     display: none;
   }
 
-  .collapse {
+  .collapse[b-fdwozry3b9] {
     /* Never collapse the sidebar for wide screens */
     display: block;
   }
